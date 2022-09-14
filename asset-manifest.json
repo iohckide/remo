@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/remo/static/css/main.6a0c5ede.css",
+    "main.js": "/remo/static/js/main.79188bd9.js",
+    "static/js/787.f1b10df1.chunk.js": "/remo/static/js/787.f1b10df1.chunk.js",
+    "static/media/img_sample9.jpeg": "/remo/static/media/img_sample9.862c6dfa96e83bd1a648.jpeg",
+    "static/media/img_sample6.jpeg": "/remo/static/media/img_sample6.f8572cf2ccea7efc2588.jpeg",
+    "static/media/img_sample7.jpeg": "/remo/static/media/img_sample7.d4b9a1f6c1e04f66f035.jpeg",
+    "static/media/img_sample8.jpeg": "/remo/static/media/img_sample8.1dbc6d7aa63ecf6b25a9.jpeg",
+    "static/media/img_sample10.jpeg": "/remo/static/media/img_sample10.dd97d7b734c1e1c9372d.jpeg",
+    "static/media/img_sample5.jpeg": "/remo/static/media/img_sample5.728ceb82b1ee74ad94db.jpeg",
+    "static/media/img_sample4.jpeg": "/remo/static/media/img_sample4.3c0424dd48d70f5fd62c.jpeg",
+    "static/media/img_sample3.jpeg": "/remo/static/media/img_sample3.fb20e9b7bdf82b78320f.jpeg",
+    "static/media/img_sample1.jpeg": "/remo/static/media/img_sample1.09153b971a2ae8b439cc.jpeg",
+    "static/media/img_sample2.jpeg": "/remo/static/media/img_sample2.edf1ad99ff887a79fd0e.jpeg",
+    "static/media/img-swiper_01.jpg": "/remo/static/media/img-swiper_01.9fb9d5826605360b0f80.jpg",
+    "static/media/img-swiper_02.jpg": "/remo/static/media/img-swiper_02.9fb9d5826605360b0f80.jpg",
+    "static/media/img-swiper_03.jpg": "/remo/static/media/img-swiper_03.9fb9d5826605360b0f80.jpg",
+    "static/media/img-swiper_04.jpg": "/remo/static/media/img-swiper_04.9fb9d5826605360b0f80.jpg",
+    "static/media/img-swiper_05.jpg": "/remo/static/media/img-swiper_05.9fb9d5826605360b0f80.jpg",
+    "static/media/img-swiper_06.jpg": "/remo/static/media/img-swiper_06.9fb9d5826605360b0f80.jpg",
+    "static/media/logo.svg": "/remo/static/media/logo.e0ef3bfcebc4feca4a9d.svg",
+    "static/media/btn-shop-on.svg": "/remo/static/media/btn-shop-on.d64f28352b146e22694e8d73b6ceeca5.svg",
+    "static/media/btn-shop.svg": "/remo/static/media/btn-shop.2dcd792f01284919fea96ccf855b40fe.svg",
+    "static/media/btn-home-on.svg": "/remo/static/media/btn-home-on.6fa88a9f92b8a7897749949c3a0ac6c0.svg",
+    "static/media/btn-home.svg": "/remo/static/media/btn-home.5297944ed7ccb5f26a06e0c79606352a.svg",
+    "index.html": "/remo/index.html",
+    "main.6a0c5ede.css.map": "/remo/static/css/main.6a0c5ede.css.map",
+    "main.79188bd9.js.map": "/remo/static/js/main.79188bd9.js.map",
+    "787.f1b10df1.chunk.js.map": "/remo/static/js/787.f1b10df1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a0c5ede.css",
+    "static/js/main.79188bd9.js"
+  ]
+}
