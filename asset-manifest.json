@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/remo/static/css/main.e7b91a6f.css",
-    "main.js": "/remo/static/js/main.428ce991.js",
+    "main.css": "/remo/static/css/main.33be2ae2.css",
+    "main.js": "/remo/static/js/main.dd6f48a7.js",
     "static/js/787.f1b10df1.chunk.js": "/remo/static/js/787.f1b10df1.chunk.js",
     "static/media/img_sample9.jpeg": "/remo/static/media/img_sample9.862c6dfa96e83bd1a648.jpeg",
     "static/media/img_sample6.jpeg": "/remo/static/media/img_sample6.f8572cf2ccea7efc2588.jpeg",
@@ -29,12 +29,12 @@
     "static/media/check-cheked.svg": "/remo/static/media/check-cheked.01b6b9062980ea010ebf.svg",
     "index.html": "/remo/index.html",
     "static/media/btn-arrow.svg": "/remo/static/media/btn-arrow.8bc6db9f52a823d4f327.svg",
-    "main.e7b91a6f.css.map": "/remo/static/css/main.e7b91a6f.css.map",
-    "main.428ce991.js.map": "/remo/static/js/main.428ce991.js.map",
+    "main.33be2ae2.css.map": "/remo/static/css/main.33be2ae2.css.map",
+    "main.dd6f48a7.js.map": "/remo/static/js/main.dd6f48a7.js.map",
     "787.f1b10df1.chunk.js.map": "/remo/static/js/787.f1b10df1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7b91a6f.css",
-    "static/js/main.428ce991.js"
+    "static/css/main.33be2ae2.css",
+    "static/js/main.dd6f48a7.js"
   ]
 }
