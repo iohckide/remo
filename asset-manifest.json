@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/remo/static/css/main.8503a82c.css",
-    "main.js": "/remo/static/js/main.8863b01a.js",
+    "main.css": "/remo/static/css/main.97c6a0b0.css",
+    "main.js": "/remo/static/js/main.dca6b777.js",
     "static/js/787.f1b10df1.chunk.js": "/remo/static/js/787.f1b10df1.chunk.js",
     "static/media/img_sample9.jpeg": "/remo/static/media/img_sample9.862c6dfa96e83bd1a648.jpeg",
     "static/media/Pretendard-Black.woff": "/remo/static/media/Pretendard-Black.fe80bd8c7ce9b3af972f.woff",
@@ -47,12 +47,12 @@
     "static/media/check-cheked.svg": "/remo/static/media/check-cheked.01b6b9062980ea010ebf.svg",
     "index.html": "/remo/index.html",
     "static/media/btn-arrow.svg": "/remo/static/media/btn-arrow.8bc6db9f52a823d4f327.svg",
-    "main.8503a82c.css.map": "/remo/static/css/main.8503a82c.css.map",
-    "main.8863b01a.js.map": "/remo/static/js/main.8863b01a.js.map",
+    "main.97c6a0b0.css.map": "/remo/static/css/main.97c6a0b0.css.map",
+    "main.dca6b777.js.map": "/remo/static/js/main.dca6b777.js.map",
     "787.f1b10df1.chunk.js.map": "/remo/static/js/787.f1b10df1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8503a82c.css",
-    "static/js/main.8863b01a.js"
+    "static/css/main.97c6a0b0.css",
+    "static/js/main.dca6b777.js"
   ]
 }
